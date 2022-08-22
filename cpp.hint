@@ -1,0 +1,18 @@
+#define then
+#define begin
+#define end
+#define close
+#define _begin
+#define _end
+#define _noargv
+#define _repeat(var, to, args)
+#define _repeat_infinite(todo)
+#define _else(todo)
+#define _elif(ifs, todo)
+#define _if(ifs, todo)
+#define yn
+#define in
+#define out
+#define and
+#define or
+#define _create_clua_shortcut(datatype, shortcut)
